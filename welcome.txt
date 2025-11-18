@@ -3,3 +3,5 @@
 git diff command
 
 "checking stash"
+
+checking cherry-pick
